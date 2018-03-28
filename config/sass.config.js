@@ -45,7 +45,6 @@ module.exports = {
     'node_modules/ionicons/dist/scss',
     'node_modules/ionic-angular/fonts',
     'node_modules/prismjs/themes/',
-    'node_modules/bootstrap/dist/dist/css/'
   ],
 
   /**
